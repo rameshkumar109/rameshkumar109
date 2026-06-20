@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rameshkumar109&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hi+I'm+Ramesh+%F0%9F%91%8B;Technology+Analyst+%7C+Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Kubernetes;Building+scalable+event-driven+systems+%F0%9F%9A%80;Open+to+SDE-2+roles+%7C+18-28+LPA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hi+I'm+Ramesh+%F0%9F%91%8B;Technology+Analyst+%7C+Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Kubernetes;Building+scalable+event-driven+systems+%F0%9F%9A%80;Open+to+SDE-2+roles)](https://git.io/typing-svg)
 
 </div>
 
